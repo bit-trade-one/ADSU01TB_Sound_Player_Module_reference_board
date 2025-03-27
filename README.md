@@ -66,3 +66,5 @@
 【動作環境:温度】　0～45℃、湿度10～60％(結露なきこと）  
 【生産国】Made in Japan  
 【保証期間】お買い上げから6ヶ月間  
+
+[「AKIBA PC Hotline!」様 / 「RaspberryPiで制御できるUSB音源モジュールが発売」](https://akiba-pc.watch.impress.co.jp/docs/news/news/720883.html)
